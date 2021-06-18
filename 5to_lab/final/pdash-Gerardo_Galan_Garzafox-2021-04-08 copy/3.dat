@@ -1,0 +1,137 @@
+#include <pspForEng3/psp1/dataFile.txt>
+= Data for /Non Project/PSP Training/Program 2
+Added LOC=95.0
+Base_Parts/0/Actual Added=65.0
+Base_Parts/0/Actual Base=46.0
+Base_Parts/0/Actual Deleted=7.0
+Base_Parts/0/Actual Modified=19.0
+Base_Parts/0/Added=25.0
+Base_Parts/0/Base=46.0
+Base_Parts/0/Deleted=11.0
+Base_Parts/0/Description="Main2
+Base_Parts/0/Modified=15.0
+Base_Parts_List=="0
+Before Development/Defects Injected==2.0
+Code/Defects Injected==5.0
+Code/Defects Removed==3.0
+Code/Estimated Time/Edit_Timestamp=@1615609599240
+Code/Estimated Time=180.0
+Code/Started=@1615157602471
+Code/Time==187.0
+Compile/Estimated Time/Edit_Timestamp=@1615609537297
+Compile/Estimated Time=0.0
+Completed/Edit_Timestamp=@1615609503689
+Completed=null
+Conceptual Design Filename="design.txt
+Design/Defects Injected==1.0
+Design/Defects Removed==2.0
+Design/Estimated Time/Edit_Timestamp=@1615609590927
+Design/Estimated Time=60.0
+Design/Started=@1615150071832
+Design/TST_design calculation methods==0.0
+Design/Time==77.0
+Estimated New & Changed LOC/Beta0=0.0
+Estimated New & Changed LOC/Beta1=1.0
+Estimated New & Changed LOC/Interval Percent="N/A
+Estimated New & Changed LOC/LPI="N/A
+Estimated New & Changed LOC/Probe Method="D
+Estimated New & Changed LOC/R Squared="N/A
+Estimated New & Changed LOC/Range="N/A
+Estimated New & Changed LOC/UPI="N/A
+Estimated New & Changed LOC=117.2
+Estimated Time/Beta0="N/A
+Estimated Time/Beta1="N/A
+Estimated Time/Edit_Timestamp=@1615149638495
+Estimated Time/Interval Percent="N/A
+Estimated Time/LPI="N/A
+Estimated Time/Probe Method="D
+Estimated Time/R Squared="N/A
+Estimated Time/Range="N/A
+Estimated Time/UPI="N/A
+Estimated Time=360.0
+New Objects/0/Actual LOC=9.0
+New Objects/0/Actual Methods=3.0
+New Objects/0/Actual New Reused?=1.0
+New Objects/0/Description="LOC_calcular_A
+New Objects/0/LOC=2.3
+New Objects/0/Methods=1.0
+New Objects/0/New Reused?=1.0
+New Objects/0/Relative Size="Very Small
+New Objects/0/Type="Calculation
+New Objects/1/Actual LOC=25.0
+New Objects/1/Actual Methods=9.0
+New Objects/1/Actual New Reused?=1.0
+New Objects/1/Description="LOC_contar_IBDM
+New Objects/1/LOC=11.3
+New Objects/1/Methods=1.0
+New Objects/1/New Reused?=1.0
+New Objects/1/Relative Size="Medium
+New Objects/1/Type="Calculation
+New Objects/2/Actual LOC=1.0
+New Objects/2/Actual Methods=1.0
+New Objects/2/Actual New Reused?=1.0
+New Objects/2/Description="main_continue_ciclo_iswhite
+New Objects/2/LOC=7.6
+New Objects/2/Methods=1.0
+New Objects/2/New Reused?=1.0
+New Objects/2/Relative Size="Very Small
+New Objects/2/Type="Logic
+New Objects/3/Actual LOC=6.0
+New Objects/3/Actual Methods=1.0
+New Objects/3/Description="comment_es_solo_comentario
+New Objects/3/LOC=16.0
+New Objects/3/Methods=1.0
+New Objects/3/Relative Size="Medium
+New Objects/3/Type="Logic
+New Objects/4/Actual LOC=13.0
+New Objects/4/Actual Methods=1.0
+New Objects/4/Description="main_pedir_multiples_archivos
+New Objects/4/LOC=16.2
+New Objects/4/Methods=1.0
+New Objects/4/Relative Size="Medium
+New Objects/4/Type="I/O
+New Objects/5/Actual LOC=8.0
+New Objects/5/Actual Methods=1.0
+New Objects/5/Description="main_matriz_archivos_LOC
+New Objects/5/LOC=16.2
+New Objects/5/Methods=1.0
+New Objects/5/Relative Size="Medium
+New Objects/5/Type="I/O
+New Objects/6/Actual LOC=3.0
+New Objects/6/Actual Methods=1.0
+New Objects/6/Description="whitelines_aceptar_corchetes
+New Objects/6/LOC=7.6
+New Objects/6/Methods=0.0
+New Objects/6/New Reused?=1.0
+New Objects/6/Relative Size="Very Small
+New Objects/6/Type="Logic
+New_Objects_List=="0123456
+PROBE_LIST=="
+PROBE_Last_Run_Value/Estimated Added & Modified Size=117.2
+PROBE_Last_Run_Value/Estimated Proxy Size==117.2
+PROBE_Last_Run_Value/Estimated Time/Edit_Timestamp=@1615149638680
+PROBE_Last_Run_Value/Estimated Time=360.0
+PSP Project Document Directory="~/Itesm/ene-may2021/calidad/labscalidad/2do_lab
+Planning/Estimated Time/Edit_Timestamp=@1615609609726
+Planning/Estimated Time=90.0
+Planning/Started=@1614788481375
+Planning/Time==106.0
+Postmortem/Estimated Time/Edit_Timestamp=@1615609573636
+Postmortem/Estimated Time=15.0
+Postmortem/Started=@1615353368515
+Postmortem/Time==15.0
+Requirements Document Filename="Requerimientos Programa 2.pdf
+Reused Objects/0/Actual LOC=30.0
+Reused Objects/0/Description="WhiteLines.h
+Reused Objects/0/LOC=28.0
+Reused Objects/1/Actual LOC=19.0
+Reused Objects/1/Description="Comments.h
+Reused Objects/1/LOC=29.0
+Reused_Objects_List=="01
+Started=@1614788481375
+Test/Defects Removed==3.0
+Test/Estimated Time/Edit_Timestamp=@1615609568689
+Test/Estimated Time=15.0
+Test/Started=@1615354610555
+Test/Time==4.0
+Total LOC=197.0

@@ -1,0 +1,2140 @@
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Feb 17 12:05:38 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-02-17 12:05:38.178:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-02-17 12:05:38.199:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-02-17 12:05:38.215:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Feb 17, 2021 12:05:40 PM net.sourceforge.processdash.tool.export.DataImporter importData
+INFO: importing /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/import/customPsp.pdash
+Feb 17, 2021 12:05:41 PM net.sourceforge.processdash.hier.HierarchyAltererMessageHandler handle
+INFO: Handling hierarchy alteration message pdash.alterHierarchy/add-tec-de-monterrey-psp-training
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Feb 17, 2021 12:05:46 PM net.sourceforge.processdash.hier.HierarchyAltererMessageHandler handle
+INFO: Done handling hierarchy alteration message
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/0.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/0.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Feb 17, 2021 12:15:40 PM net.sourceforge.processdash.tool.export.DataImporter closeFile
+INFO: closing import /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/import/customPsp.pdash
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/1.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/0.dat
+Feb 17, 2021 9:52:50 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-02-17 21:52:50.650:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.651:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-02-17 21:52:50.654:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.654:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-02-17 21:52:50.655:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.656:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-02-17 21:52:50.657:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.657:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-02-17 21:52:50.659:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.659:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-02-17 21:52:50.660:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.661:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-02-17 21:52:50.662:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.663:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-02-17 21:52:50.664:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.665:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-02-17 21:52:50.667:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-17 21:52:50.667:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Sun Feb 21 13:29:06 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-02-21 13:29:06.135:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-02-21 13:29:06.149:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-02-21 13:29:06.159:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+----------------------------------------------------------------------
+Process Dashboard - logging started at Sun Feb 21 16:44:53 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-02-21 16:44:53.992:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-02-21 16:44:54.018:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-02-21 16:44:54.031:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Feb 21, 2021 10:26:33 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-02-21 22:26:33.574:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.574:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-02-21 22:26:33.577:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.579:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-02-21 22:26:33.581:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.583:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-02-21 22:26:33.584:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.584:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-02-21 22:26:33.586:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.588:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-02-21 22:26:33.589:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.589:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-02-21 22:26:33.592:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.594:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-02-21 22:26:33.595:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.595:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-02-21 22:26:33.596:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.597:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+ainer.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1875)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.makeParentLabel(AddTaskDialog.java:176)
+	at net.sourceforge.processdash.hier.ui.AddTaskDialog.<init>(AddTaskDialog.java:114)
+	at net.sourceforge.processdash.hier.ui.AddTaskButton.actionPerformed(AddTaskButton.java:54)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6516)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2230)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2288)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4840)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4500)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4430)
+	at java.awt.Container.dispatchEventImpl(Container.java:2274)
+	at java.awt.Window.dispatchEventImpl(Window.java:2718)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:747)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.awt.EventQueue$4.run(EventQueue.java:718)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:717)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:218)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:133)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:122)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:118)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:110)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Feb 21, 2021 10:26:33 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-02-21 22:26:33.574:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.574:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-02-21 22:26:33.577:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.579:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-02-21 22:26:33.581:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.583:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-02-21 22:26:33.584:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.584:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-02-21 22:26:33.586:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.588:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-02-21 22:26:33.589:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.589:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-02-21 22:26:33.592:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.594:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-02-21 22:26:33.595:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.595:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-02-21 22:26:33.596:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-21 22:26:33.597:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Feb 24 13:04:48 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-02-24 13:04:48.893:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-02-24 13:04:48.907:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-02-24 13:04:48.957:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Thu Feb 25 22:48:23 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-02-25 22:48:23.451:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-02-25 22:48:23.473:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-02-25 22:48:23.484:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Feb 25, 2021 11:59:39 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-02-25 23:59:40.043:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.044:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-02-25 23:59:40.046:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.047:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-02-25 23:59:40.049:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.049:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-02-25 23:59:40.051:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.051:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-02-25 23:59:40.052:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.052:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-02-25 23:59:40.053:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.053:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-02-25 23:59:40.054:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.054:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-02-25 23:59:40.055:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.055:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-02-25 23:59:40.056:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-02-25 23:59:40.056:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Mar 03 10:17:50 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-03 10:17:50.690:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-03 10:17:50.705:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-03 10:17:50.719:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/0.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Mar 03, 2021 8:55:53 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-03 20:55:53.570:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.570:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-03 20:55:53.572:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.572:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-03 20:55:53.573:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.574:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-03 20:55:53.575:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.576:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-03 20:55:53.577:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.578:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-03 20:55:53.580:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.580:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-03 20:55:53.582:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.582:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-03 20:55:53.583:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.584:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-03 20:55:53.585:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-03 20:55:53.585:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Sun Mar 07 12:55:12 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-07 12:55:12.918:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-07 12:55:12.937:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-07 12:55:12.948:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Mar 07, 2021 9:44:14 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-07 21:44:14.457:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.458:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-07 21:44:14.462:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.464:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-07 21:44:14.467:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.468:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-07 21:44:14.469:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.469:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-07 21:44:14.470:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.471:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-07 21:44:14.472:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.472:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-07 21:44:14.474:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.475:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-07 21:44:14.475:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.476:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-07 21:44:14.477:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-07 21:44:14.478:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Mar 09 16:55:38 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-09 16:55:38.892:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-09 16:55:38.908:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-09 16:55:38.918:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Fri Mar 12 20:20:12 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-12 20:20:12.390:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-12 20:20:12.407:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-12 20:20:12.420:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/2.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Mar 15 16:49:10 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-15 16:49:10.338:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-15 16:49:10.350:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-15 16:49:10.362:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/3.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Mar 15, 2021 11:21:33 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-15 23:21:33.298:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.298:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-15 23:21:33.299:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.300:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-15 23:21:33.301:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.302:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-15 23:21:33.302:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.302:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-15 23:21:33.304:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.304:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-15 23:21:33.305:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.305:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-15 23:21:33.306:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.307:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-15 23:21:33.308:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.308:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-15 23:21:33.308:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.309:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Mar 15, 2021 11:21:33 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-15 23:21:33.298:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.298:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-15 23:21:33.299:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.300:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-15 23:21:33.301:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.302:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-15 23:21:33.302:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.302:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-15 23:21:33.304:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.304:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-15 23:21:33.305:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.305:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-15 23:21:33.306:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.307:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-15 23:21:33.308:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.308:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-15 23:21:33.308:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-15 23:21:33.309:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Mar 16 12:30:13 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-16 12:30:13.201:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-16 12:30:13.219:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-16 12:30:13.236:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Mar 16 16:05:35 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-16 16:05:35.494:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-16 16:05:35.509:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-16 16:05:35.520:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Mar 17 10:49:17 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-17 10:49:17.853:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-17 10:49:17.869:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-17 10:49:17.883:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Mar 17, 2021 2:48:45 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-17 14:48:45.825:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.826:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-17 14:48:45.829:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.830:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-17 14:48:45.833:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.834:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-17 14:48:45.836:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.837:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-17 14:48:45.839:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.840:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-17 14:48:45.842:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.843:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-17 14:48:45.845:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.846:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-17 14:48:45.848:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.849:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-17 14:48:45.851:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 14:48:45.852:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Mar 17 18:45:03 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-17 18:45:03.171:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-17 18:45:03.183:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-17 18:45:03.193:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Mar 17, 2021 6:54:27 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-17 18:54:27.393:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.394:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-17 18:54:27.395:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.396:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-17 18:54:27.397:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.397:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-17 18:54:27.398:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.398:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-17 18:54:27.399:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.400:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-17 18:54:27.401:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.401:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-17 18:54:27.402:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.402:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-17 18:54:27.403:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.404:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-17 18:54:27.404:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-17 18:54:27.405:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Fri Mar 19 23:20:53 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-19 23:20:54.101:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-19 23:20:54.247:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-19 23:20:54.361:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/4.dat
+Mar 19, 2021 11:58:52 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-19 23:58:52.390:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.395:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-19 23:58:52.410:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.412:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-19 23:58:52.415:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.416:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-19 23:58:52.428:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.429:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-19 23:58:52.432:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.434:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-19 23:58:52.444:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.445:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-19 23:58:52.448:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.449:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-19 23:58:52.452:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.453:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-19 23:58:52.456:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-19 23:58:52.457:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Sat Mar 20 12:57:05 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-20 12:57:05.118:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-20 12:57:05.131:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-20 12:57:05.141:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 20, 2021 11:04:47 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-20 23:04:47.276:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.276:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-20 23:04:47.279:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.280:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-20 23:04:47.282:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.283:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-20 23:04:47.284:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.285:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-20 23:04:47.287:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.287:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-20 23:04:47.288:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.288:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-20 23:04:47.289:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.290:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-20 23:04:47.291:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.291:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-20 23:04:47.292:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.292:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+7.284:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.285:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-20 23:04:47.287:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.287:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-20 23:04:47.288:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.288:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-20 23:04:47.289:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.290:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-20 23:04:47.291:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.291:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-20 23:04:47.292:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-20 23:04:47.292:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Sun Mar 21 16:35:13 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-21 16:35:13.150:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-21 16:35:13.162:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-21 16:35:13.172:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 21, 2021 6:07:54 PM net.sourceforge.processdash.ui.web.dash.DocumentOpenerJava16 openDocument
+WARNING: Unable to open file '/home/gera/Itesm/ene-may2021/calidad/labscalidad/4to_lab/'Checklist Revision Diseño A00821196.docx''
+java.lang.IllegalArgumentException: The file: /home/gera/Itesm/ene-may2021/calidad/labscalidad/4to_lab/'Checklist Revision Diseño A00821196.docx' doesn't exist.
+	at java.awt.Desktop.checkFileValidation(Desktop.java:207)
+	at java.awt.Desktop.open(Desktop.java:267)
+	at net.sourceforge.processdash.ui.web.dash.DocumentOpenerJava16.openDocument(DocumentOpenerJava16.java:58)
+	at net.sourceforge.processdash.ui.web.dash.DocumentOpenerImpl.openDocument(DocumentOpenerImpl.java:54)
+	at net.sourceforge.processdash.ui.web.dash.OpenDocument.redirectTo(OpenDocument.java:359)
+	at net.sourceforge.processdash.ui.web.dash.OpenDocument.writeContents(OpenDocument.java:344)
+	at net.sourceforge.processdash.ui.web.TinyCGIBase.doPost(TinyCGIBase.java:710)
+	at net.sourceforge.processdash.ui.web.TinyCGIBase.service(TinyCGIBase.java:103)
+	at net.sourceforge.processdash.ui.web.dash.OpenDocument.service(OpenDocument.java:182)
+	at net.sourceforge.processdash.net.http.TinyCGIHandlerServlet.runScript(TinyCGIHandlerServlet.java:193)
+	at net.sourceforge.processdash.net.http.TinyCGIHandlerServlet.handleLink(TinyCGIHandlerServlet.java:79)
+	at net.sourceforge.processdash.net.http.TinyCGIHandlerServlet.doPost(TinyCGIHandlerServlet.java:60)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:755)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1507)
+	at net.sourceforge.processdash.net.http.DashboardUriPrefixFilter.doFilter(DashboardUriPrefixFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1478)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:499)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at net.sourceforge.processdash.net.http.WebAppContextDashboard.doHandle(WebAppContextDashboard.java:360)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:427)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at net.sourceforge.processdash.net.http.WebAppContextDashboard.access$001(WebAppContextDashboard.java:70)
+	at net.sourceforge.processdash.net.http.WebAppContextDashboard$DoScopeAction.run(WebAppContextDashboard.java:319)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at net.sourceforge.processdash.net.http.WebAppContextDashboard$DoScopeAction.execute(WebAppContextDashboard.java:326)
+	at net.sourceforge.processdash.net.http.WebAppContextDashboard.doScope(WebAppContextDashboard.java:293)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at net.sourceforge.processdash.net.http.DashboardHttpRequestInterceptor.handle(DashboardHttpRequestInterceptor.java:108)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:984)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:1045)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:861)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:236)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:748)
+
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/global.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 21, 2021 10:32:01 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-21 22:32:01.315:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.316:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-21 22:32:01.319:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.320:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-21 22:32:01.323:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.324:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-21 22:32:01.326:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.326:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-21 22:32:01.328:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.329:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-21 22:32:01.329:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.330:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-21 22:32:01.331:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.331:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-21 22:32:01.332:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.333:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-21 22:32:01.334:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.334:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+ocess Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 21, 2021 10:32:01 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-21 22:32:01.315:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.316:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-21 22:32:01.319:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.320:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-21 22:32:01.323:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.324:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-21 22:32:01.326:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.326:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-21 22:32:01.328:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.329:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-21 22:32:01.329:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.330:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-21 22:32:01.331:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.331:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-21 22:32:01.332:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.333:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-21 22:32:01.334:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-21 22:32:01.334:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Mar 22 10:43:20 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-22 10:43:20.357:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-22 10:43:20.380:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-22 10:43:20.410:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Mar 22 17:54:44 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-22 17:54:44.173:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-22 17:54:44.196:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-22 17:54:44.213:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 22, 2021 6:01:27 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-22 18:01:27.261:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.263:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-22 18:01:27.266:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.266:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-22 18:01:27.269:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.270:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-22 18:01:27.271:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.272:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-22 18:01:27.274:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.275:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-22 18:01:27.277:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.278:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-22 18:01:27.280:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.281:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-22 18:01:27.283:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.284:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-22 18:01:27.286:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 18:01:27.287:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Mar 22 20:16:25 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-22 20:16:25.951:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-22 20:16:25.963:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-22 20:16:25.973:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 22, 2021 10:10:42 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+Mar 22, 2021 10:35:55 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-22 22:35:55.950:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.951:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-22 22:35:55.953:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.954:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-22 22:35:55.955:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.956:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-22 22:35:55.957:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.958:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-22 22:35:55.959:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.960:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-22 22:35:55.961:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.962:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-22 22:35:55.963:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.964:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-22 22:35:55.965:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.966:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-22 22:35:55.968:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-22 22:35:55.969:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Wed Mar 24 11:59:10 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-24 11:59:10.237:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-24 11:59:10.252:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-24 11:59:10.264:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Thu Mar 25 12:12:48 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-25 12:12:48.763:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-25 12:12:48.883:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-25 12:12:48.949:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/5.dat
+Mar 25, 2021 12:40:52 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-25 12:40:52.254:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.268:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-25 12:40:52.273:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.274:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-25 12:40:52.277:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.278:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-25 12:40:52.291:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.292:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-25 12:40:52.295:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.296:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-25 12:40:52.298:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.300:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-25 12:40:52.318:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.319:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-25 12:40:52.322:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.324:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-25 12:40:52.335:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-25 12:40:52.337:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Mar 30 20:45:47 CST 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-03-30 20:45:47.735:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-03-30 20:45:47.748:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-03-30 20:45:47.758:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Mar 30, 2021 9:32:53 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-03-30 21:32:53.522:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.522:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-03-30 21:32:53.524:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.525:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-03-30 21:32:53.526:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.526:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-03-30 21:32:53.527:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.528:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-03-30 21:32:53.529:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.530:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-03-30 21:32:53.531:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.531:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-03-30 21:32:53.532:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.534:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-03-30 21:32:53.535:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.536:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-03-30 21:32:53.538:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-03-30 21:32:53.539:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Apr 05 12:45:06 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-05 12:45:06.549:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-05 12:45:06.561:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-05 12:45:06.572:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Mon Apr 05 22:20:56 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-05 22:20:56.405:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-05 22:20:56.420:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-05 22:20:56.431:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Apr 06 09:29:53 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-06 09:29:53.912:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-06 09:29:53.943:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-06 09:29:53.980:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Apr 06, 2021 11:24:57 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-04-06 11:24:57.709:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.710:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-04-06 11:24:57.712:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.713:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-04-06 11:24:57.714:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.714:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-04-06 11:24:57.715:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.715:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-04-06 11:24:57.717:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.717:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-04-06 11:24:57.718:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.719:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-04-06 11:24:57.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-04-06 11:24:57.721:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.721:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-04-06 11:24:57.722:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-06 11:24:57.723:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Thu Apr 08 12:47:12 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-08 12:47:12.315:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-08 12:47:12.330:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-08 12:47:12.345:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat
+Apr 08, 2021 12:52:58 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+2021-04-08 12:52:58.737:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.738:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/api.jar!/Templates/}
+2021-04-08 12:52:58.741:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.741:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/extras.jar!/Templates/}
+2021-04-08 12:52:58.742:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.743:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/gitDiff.jar!/Templates/}
+2021-04-08 12:52:58.743:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.744:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/importPSP.jar!/Templates/}
+2021-04-08 12:52:58.745:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.746:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/l10nTool.jar!/Templates/}
+2021-04-08 12:52:58.747:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.747:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspForEng.jar!/Templates/}
+2021-04-08 12:52:58.748:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.749:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspProc2.jar!/Templates/}
+2021-04-08 12:52:58.750:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.750:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2021-04-08 12:52:58.751:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2021-04-08 12:52:58.751:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process%20Dashboard/App/pspdash.jar!/Templates/}
+----------------------------------------------------------------------
+Process Dashboard - logging started at Thu Apr 08 21:16:41 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-08 21:16:41.284:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-08 21:16:41.299:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-08 21:16:41.310:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat

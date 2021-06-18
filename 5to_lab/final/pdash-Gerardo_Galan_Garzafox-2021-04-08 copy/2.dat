@@ -1,0 +1,26 @@
+#include <pspForEng3/psp0/dataFile.txt>
+= Data for /Non Project/PSP Training/Program 1
+Added LOC=57.0
+Base LOC=0.0
+Code/Defects Injected=2.0
+Code/Defects Removed=1.0
+Code/Time==0.0
+Compile/Defects Injected=0.0
+Compile/Defects Removed=0.0
+Compile/Time==0.0
+Completed/Edit_Timestamp=@1613961432610
+Completed=@1613961432610
+Defects Removed=2.0
+Deleted LOC=0.0
+Design/Defects Injected=1.0
+Design/Time==0.0
+Modified LOC=0.0
+PSP Project Document Directory="/Itesm/ene-may2021/calidad/labscalidad/1er_lab/
+Planning/Defects Injected=0.0
+Planning/Time==0.0
+Postmortem/Time==0.0
+Requirements Document Filename="requirement_doc
+Started=@1613948896000
+Test/Defects Removed=1.0
+Test/Time==0.0
+Total LOC=59.0

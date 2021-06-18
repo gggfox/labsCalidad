@@ -1,0 +1,137 @@
+#include <vector>, push_back
+#include <iostream>
+#include <string> //getline
+#include <fstream>
+#include <limits> //numeric_limits
+class main
+    vector X
+    vector Y
+    string file
+    filename=getFilename()
+    int xk,
+    int cont=0;
+    double temp_x, temp_y
+    scanner =open(file)
+    string line
+    scanner
+    while !eof()
+        getline(scanner, line)
+        if (cont == 0)
+            read line
+            xk =  std::stoi(str)
+            /*
+                lanzar error si es mayor a std::numeric_limits<int>::max()
+                o menor a 0
+            */
+            continue
+        endif
+
+
+        X[cont] = stod(line.substr(0, line.find(',')));
+        Y[cont] = stod(line.substr(line.find(',') + 1, line.length()));
+
+
+        /*
+            lanzar error si es mayor a std::numeric_limits<double>::max()
+            o menor a std::numeric_limits<double>::min()
+        */
+        cont++;
+    EndWhile
+    regression regressor(x_vector,y_vector,xk)
+    Output out(regressor)
+    out.print()
+
+
+//#include <vector> //accumulate
+//#include <iostream>
+//#include<cmath> //pow, sqrt
+#include <numeric> //inner_product
+class regression
+    constructor //recibes X,Y vectors
+
+    //variables
+    N //uint
+    xk //uint
+    r //double
+    r2 //double
+    b0 //double
+    b1 //double
+    yk //double
+    X //double, sum of x's
+    Y //double, sum of y's
+    X2 //double, sum of x2's
+    XY //double, sum of x*y
+    Y2 //double, sum of y2's
+    X_mean //double, X/N
+    Y_mean //double, Y/N
+
+    //getters & setters
+    getN
+    setN
+    getXk
+    setXk
+
+    getR
+    setR
+    calcR//validates -1<=r<=1, rounds 5 decimals up
+    /*
+        ((getN()*getXY()) - (getX()*getY())) /
+        ((getN()*getX2()-getX()^2) * (getN()*getY2()-getY()^2))^(0.5)
+    */
+
+    getR2
+    setR2
+
+    getB0
+    setB0
+    calcB0//rounds 5 decimals up
+    /*
+        getY_mean() - getB1()*getX_mean()
+    */
+
+    getB1
+    setB1
+    calcB1//rounds 5 decimals up
+    /*
+        (getXY() - (getN() *  getXMean() * getYMean()))/
+        (getX2() - (getN() * (getXMean() ^ 2)))
+    */
+
+    getYk
+    setYk
+    calc yk//rounds 5 decimals up
+    /*
+        getB0() + getB1 * getXk()
+    */
+
+    getX
+    setX
+    calcX
+
+    getY
+    setY
+    calcY
+
+    getX2
+    setX2
+    getY2
+    setY2
+
+    getXY
+    setXY
+    calcXY
+
+    getXMean
+    setXMmean
+    calcXMean//retrun getX()/getN()
+
+    getYMean
+    setYMean
+    calcYMean//return getY()/getN()
+
+//#include <iostream>
+class output
+    regressor reg;
+
+    //method
+    print, just calls necesary reg getters

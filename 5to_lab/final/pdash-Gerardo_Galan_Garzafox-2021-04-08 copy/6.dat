@@ -1,0 +1,81 @@
+#include <pspForEng3/psp2.1/dataFile2.txt>
+= Data for /Non Project/PSP Training/Program 5
+Added LOC=22.0
+Base_Parts/0/Actual Added=22.0
+Base_Parts/0/Actual Base=91.0
+Base_Parts/0/Actual Deleted=3.0
+Base_Parts/0/Actual Modified=6.0
+Base_Parts/0/Added=25.0
+Base_Parts/0/Base=91.0
+Base_Parts/0/Deleted=5.0
+Base_Parts/0/Description="Calc
+Base_Parts/0/Modified=9.0
+Base_Parts/1/Actual Added=0.0
+Base_Parts/1/Actual Base=72.0
+Base_Parts/1/Actual Deleted=0.0
+Base_Parts/1/Actual Modified=6.0
+Base_Parts/1/Added=0.0
+Base_Parts/1/Base=72.0
+Base_Parts/1/Deleted=0.0
+Base_Parts/1/Description="IO
+Base_Parts/1/Modified=10.0
+Base_Parts/2/Actual Added=0.0
+Base_Parts/2/Actual Base=12.0
+Base_Parts/2/Actual Deleted=0.0
+Base_Parts/2/Actual Modified=2.0
+Base_Parts/2/Added=0.0
+Base_Parts/2/Base=12.0
+Base_Parts/2/Deleted=0.0
+Base_Parts/2/Description="Main5
+Base_Parts/2/Modified=1.0
+Base_Parts_List=="012
+Code Review/Defects Removed==5.0
+Code Review/Started=@1617721094728
+Code Review/Time==10.0
+Code/Defects Injected==7.0
+Code/Started=@1617681507729
+Code/Time==60.0
+Design Review/Defects Removed==2.0
+Design Review/Started=@1617680996618
+Design Review/Time==8.0
+Design/Defects Injected==1.0
+Design/Started=@1617160194644
+Design/Time==45.0
+Estimated New & Changed LOC/Beta0=0.0
+Estimated New & Changed LOC/Beta1=0.716246568505116
+Estimated New & Changed LOC/Interval Percent="N/A
+Estimated New & Changed LOC/LPI="N/A
+Estimated New & Changed LOC/Probe Method="C
+Estimated New & Changed LOC/R Squared="N/A
+Estimated New & Changed LOC/Range="N/A
+Estimated New & Changed LOC/UPI="N/A
+Estimated New & Changed LOC=32.23109558273022
+Estimated Time/Beta0=0.0
+Estimated Time/Beta1=2.515597704017968
+Estimated Time/Edit_Timestamp=@1617722202151
+Estimated Time/Interval Percent="N/A
+Estimated Time/LPI="N/A
+Estimated Time/Probe Method="C2
+Estimated Time/R Squared="N/A
+Estimated Time/Range="N/A
+Estimated Time/UPI="N/A
+Estimated Time=113.20189668080856
+New_Objects_List=="0
+PROBE_LIST=="/Non Project/PSP Training/Program 2/Non Project/PSP Training/Program 3/Non Project/PSP Training/Program 4
+PROBE_Last_Run_Value/Estimated Added & Modified Size=32.23109558273022
+PROBE_Last_Run_Value/Estimated Proxy Size==45.0
+PROBE_Last_Run_Value/Estimated Time/Edit_Timestamp=@1617722202312
+PROBE_Last_Run_Value/Estimated Time=113.20189668080856
+Planning/Defects Injected==1.0
+Planning/Started=@1617158794885
+Planning/Time==19.0
+Postmortem/Started=@1617722388595
+Postmortem/Time==11.0
+Reused Objects/0/Actual LOC=null
+Reused Objects/0/LOC=null
+Reused_Objects_List=="0
+Started=@1617158794885
+Test/Defects Removed==2.0
+Test/Started=@1617721690580
+Test/Time==3.0
+Total LOC=197.0

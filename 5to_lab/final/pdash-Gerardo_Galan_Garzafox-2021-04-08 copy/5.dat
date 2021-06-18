@@ -1,0 +1,81 @@
+#include <pspForEng3/psp2.1/dataFile2.txt>
+= Data for /Non Project/PSP Training/Program 4
+Base_Parts/0/Actual Added=7.0
+Base_Parts/0/Actual Base=56.0
+Base_Parts/0/Actual Deleted=51.0
+Base_Parts/0/Actual Modified=4.0
+Base_Parts/0/Added=7.0
+Base_Parts/0/Base=56.0
+Base_Parts/0/Deleted=51.0
+Base_Parts/0/Description="main.cpp
+Base_Parts/0/Modified=4.0
+Base_Parts/1/Actual Added=57.0
+Base_Parts/1/Actual Base=72.0
+Base_Parts/1/Actual Deleted=15.0
+Base_Parts/1/Actual Modified=5.0
+Base_Parts/1/Added=57.0
+Base_Parts/1/Base=72.0
+Base_Parts/1/Deleted=15.0
+Base_Parts/1/Description="IO.h
+Base_Parts/1/Modified=5.0
+Base_Parts_List=="0123456
+Code Review/Defects Removed==9.0
+Code Review/Started=@1616436834937
+Code Review/Time==48.0
+Code/Defects Injected==8.0
+Code/Started=@1616371858070
+Code/Time==74.0
+Conceptual Design Filename="ConceptualDesign.md
+Design Review Checklist Filename="'Checklist Revision Diseño A00821196.docx'
+Design Review/Defects Removed==3.0
+Design Review/Started=@1616370581613
+Design Review/Time==12.0
+Design/Defects Injected==4.0
+Design/Started=@1616271063985
+Design/Time==117.0
+Estimated New & Changed LOC/Beta0=0.0
+Estimated New & Changed LOC/Beta1=1.0
+Estimated New & Changed LOC/Interval Percent="N/A
+Estimated New & Changed LOC/LPI="N/A
+Estimated New & Changed LOC/Probe Method="D
+Estimated New & Changed LOC/R Squared="N/A
+Estimated New & Changed LOC/Range="N/A
+Estimated New & Changed LOC/UPI="N/A
+Estimated New & Changed LOC=230.5
+Estimated Time/Beta0="N/A
+Estimated Time/Beta1="N/A
+Estimated Time/Edit_Timestamp=@1616697484098
+Estimated Time/Interval Percent="N/A
+Estimated Time/LPI="N/A
+Estimated Time/Probe Method="D
+Estimated Time/R Squared="N/A
+Estimated Time/Range="N/A
+Estimated Time/UPI="N/A
+Estimated Time=300.0
+Functional Specification Filename="'Formato de Especificacion Funcional.docx'
+New Objects/0/Actual LOC=91.0
+New Objects/0/Actual Methods=14.0
+New Objects/0/Description="Calc class
+New Objects/0/LOC=157.5
+New Objects/0/Methods=14.0
+New Objects/0/Relative Size="Medium
+New Objects/0/Type="Calculation
+New_Objects_List=="012345
+PROBE_LIST=="/Non Project/PSP Training/Program 1
+PROBE_Last_Run_Value/Estimated Added & Modified Size=230.5
+PROBE_Last_Run_Value/Estimated Proxy Size==230.5
+PROBE_Last_Run_Value/Estimated Time/Edit_Timestamp=@1616697484280
+PROBE_Last_Run_Value/Estimated Time=300.0
+PSP Project Document Directory="/home/gera/Itesm/ene-may2021/calidad/labscalidad/4to_lab
+Planning/Started=@1616267768003
+Planning/Time==34.0
+Postmortem/Started=@1616468305819
+Postmortem/Time==26.0
+Requirements Document Filename="'Requerimientos Programa 4.pdf'
+Reused Objects/0/Actual LOC=null
+Reused Objects/0/LOC=null
+Reused_Objects_List=="0
+Started=@1616267768003
+Test/Started=@1616466371800
+Test/Time==6.0
+Total LOC=176.0

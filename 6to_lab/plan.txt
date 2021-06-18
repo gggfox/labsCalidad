@@ -1,0 +1,29 @@
+class simpson
+class tdistribution
+
+class StandardDeviation
+class Main
+
+class IO recibe nada y devuelve (N,xk,xArray,yArray) luego se le agregan (r,r2,b0,b1,yk,sig,ran,LS,LI) y los imprime
+
+class regression recibe(vector<long double> X, vector<long double> Y, int xk) y regresa(N,xk,r,r2,b0,b1,yk)
+
+dof = n-2
+x = (abs(r)*sqrt(dof))/sqrt(1 - pow(r,2))
+*sig = 1 - 2*sim.getSimpson(x, dof);
+simpson.getX()
+//getX es de simpson
+
+ran = {
+        helper.GetX(0.35, dof) * 
+        helper.StandardDeviation(xValues, yValues, bZero, bOne, n) * 
+        sqrt(
+            1.0 + (1.0/n)+(pow(xk - xAvg,2)) / 
+            (helper.SumTwoNumbersSqrd(xValues, n, xAvg))
+        );
+    }
+*LS = yk + ran
+*LI = yk - ran
+
+agregar variables que se mostrararn en IO(N,xk,r,r2,b0,b1,yk,sig,ran,LS,LI)(xArray,yArray)
+

@@ -1,0 +1,28 @@
+#include <dataFile.txt>
+C++ Design Review Checklist Template="/home/gera/Itesm/ene-may2021/calidad/labscalidad/4to_lab
+MessageDispatch_Handled/pdash.alterHierarchy/add-tec-de-monterrey-psp-training==1.0
+Non Project/Started=@1614788481375
+Non Project/make conceptual design/Time==0.0
+Non Project/make conceptual design/leaf==TAG
+Non Project/make conceptual design/node==TAG
+Non Project/node==TAG
+Owner="Gerardo Galan Garzafox
+Project/Completed/Edit_Timestamp=@1613948722592
+Project/Completed=@1613948722592
+Project/Estimated Time/Edit_Timestamp=@1613961456270
+Project/Estimated Time=120.0
+Project/Started=@1613948309826
+Project/Time==151.0
+Project/leaf==TAG
+Project/node==TAG
+Task-Schedule/design calculation methods/Planned Hours=="@16157016000001200.0@1616306400000
+Task-Schedule/design calculation methods/Task List ID="mcnxno.kmb8dtrc
+Task-Schedule/design calculation methods/Task_List_Metadata="#task list metadata\n#Mon Mar 15 17:41:54 CST 2021\nRezero_On_Start_Date=false\nTimezone=America/Monterrey\n
+Task-Schedule/make regression class/Planned Hours=="@16157016000001200.0@1616306400000
+Task-Schedule/make regression class/Task List ID="ogc8mg.kmb8cof1
+Task-Schedule/make regression class/Task_List_Metadata="#task list metadata\n#Mon Mar 15 17:41:00 CST 2021\nRezero_On_Start_Date=false\nTimezone=America/Monterrey\n
+Task-Schedule/read xk,x,y/Planned Hours=="@16157016000001200.0@1616306400000
+Task-Schedule/read xk,x,y/Task List ID="px9i52.kmb88ybn
+Task-Schedule/read xk,x,y/Task_List_Metadata="#task list metadata\n#Mon Mar 15 17:40:06 CST 2021\nRezero_On_Start_Date=false\nTimezone=America/Monterrey\n
+pspdiff-language="C
+pspdiff-options="

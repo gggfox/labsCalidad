@@ -1,0 +1,9 @@
+Process Dashboard - logging started at Thu Apr 08 21:16:41 CDT 2021
+Oracle Corporation JRE 1.7.0_261; Linux
+Using LocalWorkingDirectory[/home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data]
+2021-04-08 21:16:41.284:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2021-04-08 21:16:41.299:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2021-04-08 21:16:41.310:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Process Dashboard version 2.5.3
+Running as user gera
+Saved /home/gera/Itesm/ene-may2021/calidad/labscalidad/Process Dashboard/Data/6.dat

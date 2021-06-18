@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Code" rem="Test" ft="3.0" fd="" desc="Sintoma:&#10;Problemas enendiendo la abstacion dentro del programa, &#10;Causa:&#10;Malos nombres de variables" count="3" date="@1614193527852" />
+  <defect num="2" type="Function" inj="Code" rem="Test" ft="2.0" fd="" desc="Sintoma&#10;No arroja el resultado esperado&#10;Causa&#10;error de logida dentro de una clase" count="2" date="@1614199714620" />
+  <defect num="3" type="Function" inj="Design" rem="Code" ft="2.0" fd="" desc="Sintoma:&#10;No leia la ultima linea del codigo&#10;Razon:&#10;la manera en la que se abria el archivo para leerlo" count="2" date="@1614316690399" />
+</defectLog>

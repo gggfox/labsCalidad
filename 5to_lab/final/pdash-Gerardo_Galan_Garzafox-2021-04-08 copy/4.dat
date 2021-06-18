@@ -1,0 +1,120 @@
+#include <pspForEng3/psp2/dataFile2.txt>
+= Data for /Non Project/PSP Training/Program 3
+% New Reused=0.2
+% Reused=0.3
+Added LOC=47.0
+Base_Parts/0/Actual Added=23.0
+Base_Parts/0/Actual Base=132.0
+Base_Parts/0/Actual Deleted=125.0
+Base_Parts/0/Actual Modified=3.0
+Base_Parts/0/Added=26.0
+Base_Parts/0/Base=132.0
+Base_Parts/0/Deleted=125.0
+Base_Parts/0/Description="main.cpp
+Base_Parts/0/Modified=3.0
+Base_Parts_List=="0
+Code Review/Defects Removed==0.0
+Code Review/Started=@1615920173812
+Code Review/Time==17.0
+Code/Defects Injected==7.0
+Code/Defects Removed==6.0
+Code/Started=@1615860543249
+Code/Time==139.0
+Defect Density=9.0
+Design Review/Started=@1615857939697
+Design Review/Time==37.0
+Design/Defects Injected==2.0
+Design/Started=@1615851858893
+Design/TST_make regression class==0.0
+Design/TST_read xk,x,y==0.0
+Design/Time==68.0
+Estimated % New Reused=0.205
+Estimated % Reused=0.3
+Estimated Added LOC=50.0
+Estimated Defects per KLOC=10.0
+Estimated New & Changed LOC/Beta0=0.0
+Estimated New & Changed LOC/Beta1=1.0
+Estimated New & Changed LOC/Interval Percent="N/A
+Estimated New & Changed LOC/LPI="N/A
+Estimated New & Changed LOC/Probe Method="D
+Estimated New & Changed LOC/R Squared="N/A
+Estimated New & Changed LOC/Range="N/A
+Estimated New & Changed LOC/UPI="N/A
+Estimated New & Changed LOC=53.0
+Estimated Productivity=26.0
+Estimated Time/Beta0="N/A
+Estimated Time/Beta1="N/A
+Estimated Time/Edit_Timestamp=@1615999846130
+Estimated Time/Interval Percent="N/A
+Estimated Time/LPI="N/A
+Estimated Time/Probe Method="D
+Estimated Time/R Squared="N/A
+Estimated Time/Range="N/A
+Estimated Time/UPI="N/A
+Estimated Time=300.0
+Estimated Yield=0.667
+New Objects/0/Actual LOC=11.0
+New Objects/0/Actual Methods=0.0
+New Objects/0/Description="read pairs
+New Objects/0/LOC=16.2
+New Objects/0/Methods=1.0
+New Objects/0/Relative Size="Medium
+New Objects/0/Type="I/O
+New Objects/2/Actual LOC=14.0
+New Objects/2/Actual Methods=3.0
+New Objects/2/Description="display_methods
+New Objects/2/LOC=24.0
+New Objects/2/Methods=3.0
+New Objects/2/Relative Size="Small
+New Objects/2/Type="Text
+New Objects/3/Actual LOC=17.0
+New Objects/3/Actual Methods=2.0
+New Objects/3/Description="variables_methods_calculations
+New Objects/3/LOC=30.4
+New Objects/3/Methods=13.0
+New Objects/3/Relative Size="Very Small
+New Objects/3/Type="Calculation
+New Objects/4/Actual LOC=87.0
+New Objects/4/Actual Methods=2.0
+New Objects/4/Description="variable_class
+New Objects/4/LOC=16.3
+New Objects/4/Methods=1.0
+New Objects/4/Relative Size="Large
+New Objects/4/Type="Data
+New Objects/5/Actual LOC=16.0
+New Objects/5/Actual Methods=2.0
+New Objects/5/Description="display_class
+New Objects/5/LOC=9.6
+New Objects/5/Methods=2.0
+New Objects/5/Relative Size="Small
+New Objects/5/Type="Data
+New Objects/6/Actual LOC=70.0
+New Objects/6/Actual Methods=28.0
+New Objects/6/Description="variables_methods_getters_setters
+New Objects/6/LOC=67.6
+New Objects/6/Methods=26.0
+New Objects/6/Relative Size="Very Small
+New Objects/6/Type="Data
+New_Objects_List=="023456
+PROBE_LIST=="/Non Project/PSP Training/Program 1
+PROBE_Last_Run_Value/Estimated Added & Modified Size=193.09999999999997
+PROBE_Last_Run_Value/Estimated Proxy Size==193.09999999999997
+PROBE_Last_Run_Value/Estimated Time/Edit_Timestamp=@1615999846211
+PROBE_Last_Run_Value/Estimated Time=300.0
+PSP Project Document Directory="/home/gera/Itesm/ene-may2021/calidad/labscalidad/3er_lab
+Planning/Started=@1615848792392
+Planning/Time==26.0
+Postmortem/Started=@1615951071044
+Postmortem/Time==10.0
+Productivity=31.0
+Requirements Document Filename="Requerimientos_Programa_3.pdf
+Reused Objects/0/Actual LOC=27.0
+Reused Objects/0/LOC=27.0
+Reused_Objects_List=="0
+Started=@1615848792392
+Test/Defect Density=3.0
+Test/Defects Removed==3.0
+Test/Estimated Defect Density=4.0
+Test/Started=@1615935575318
+Test/Time==5.0
+Total LOC=56.0

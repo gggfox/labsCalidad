@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Design" rem="Design Review" ft="2.5" fd="" desc="EFFECTO:el metodo F de la clase Calc empieza con mayuscula y no es muy descriptivo.&#10;CAUSA:Se le puso el mismo nombre que en los requerimientos." date="@1616370675356" />
+  <defect num="2" type="Function" inj="Design" rem="Design Review" ft="1.1" fd="" desc="EFFECTO:la clase calc esta haciendo muchas cosas en el methodo simposon, hay que decoplarlo.&#10;CAUSA:hizo falta definir una funcion para aproximar en calc.&#10;" date="@1616370918193" />
+  <defect num="3" type="Function" inj="Design" rem="Design Review" ft="1.3" fd="" desc="EFFECTO:se puede acceder a methodos y attributos de Calc que no se deberian de poder acceder.&#10;CAUSA:la clase Calc tiene attributos publicos que deberian de definirse como privados." date="@1616371085269" />
+  <defect num="4" type="Syntax" inj="Code" rem="Code Review" ft="1.9" fd="" desc="EFFECTO:El programa no va compilar debidamente.&#10;CAUSA:Dentro de la clase Calc falto especificar que los methodos pertenecian a esta con el uso de Calc::method_name&#10;" date="@1616436841226" />
+  <defect num="5" type="Documentation" inj="Code" rem="Code Review" ft="1.3" fd="" desc="EFFECTO:No cumple con la seccion de comentarios de la checklist.&#10;CAUSA:No se agregaron comentarios al principio de cada archivo." date="@1616437013697" />
+  <defect num="6" type="Documentation" inj="Code" rem="Code Review" ft="0.9" fd="" desc="EFFECTO:no se cumple con la seccion de comentarios de la checklist. &#10;CAUSA:hay methodos sin comentar." date="@1616437123689" />
+  <defect num="7" type="Interface" inj="Code" rem="Code Review" ft="1.4" fd="" desc="EFFECTO: No se despliega como se espera el output.&#10;CAUSA:faltaron espacios en los prints." date="@1616437193764" />
+  <defect num="8" type="Syntax" inj="Code" rem="Code Review" ft="0.7" fd="" desc="EFFECTO: no va a compilar el programa.&#10;CAUSA: se esta llamando mal al getter de dof en un methodo." date="@1616437296844" />
+  <defect num="9" type="Assignment" inj="Design" rem="Code Review" ft="1.8" fd="" desc="EFFECTO:uso erroneo del attributo w.&#10;CAUSA:la variable w no tiene porque ser attributo deberia de ser local porque solo se usa dentro de un solo methodo." date="@1616437359896" />
+  <defect num="10" type="Checking" inj="Code" rem="Code Review" ft="1.7" fd="" desc="EFFECTO:salen 2 mensajes de error repetidos &#10;CAUSA:hay mensajes de error dentro de el catch en el methodo read de la clase IO." date="@1616437474560" />
+  <defect num="11" type="Function" inj="Code" rem="Code Review" ft="1.6" fd="" desc="EFFECTO:no se cumple con la seccion de logica de la checklist.&#10;CAUSA: hay methodos void sin return en la clase Calc.&#10;" date="@1616437587107" />
+  <defect num="12" type="Syntax" inj="Code" rem="Code Review" ft="1.2" fd="" desc="EFFECTO:no se cumple con la seccion de estructura de la checklist.&#10;CAUSA:hay pares de parentesis de mas en el methodo tDistribution de la clase Calc." date="@1616437691708" />
+</defectLog>

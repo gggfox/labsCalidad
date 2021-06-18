@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Code" rem="Code" ft="1.0" fd="" desc="effecto:&#10;no compila&#10;causa:&#10;falto cerrar parenthesis" date="@1615867183029" />
+  <defect num="2" type="Syntax" inj="Code" rem="Code" ft="1.1" fd="" desc='effecto&#10;no compila&#10;causa&#10;tenia un "}" de mas' date="@1615867259150" />
+  <defect num="3" type="Function" inj="Design" rem="Code" ft="1.0" fd="" desc="error &#10;no compila&#10;causa&#10;no llame correctamente a la funcion numeric::inner_product(), falto mandar la poscicion inicial del segundo vetor en el tercer  argumento" date="@1615867426709" />
+  <defect num="4" type="Function" inj="Code" rem="Code" ft="1.1" fd="" desc="effecto &#10;me da la suma de las y's equivocado&#10;causa&#10;le mande el vector de las x a la fucnion numeric::accumulate() en el setY()" date="@1615867600271" />
+  <defect num="5" type="Function" inj="Code" rem="Code" ft="1.0" fd="" desc="effecto&#10;arroja un resultado erroneo en la media de las y's&#10;causa&#10;le pase el getX() no el getY()" date="@1615867780485" />
+  <defect num="6" type="Function" inj="Design" rem="Code" ft="2.0" fd="" desc="effecto&#10;no compila &#10;causa&#10;no puse un constructor vacio" date="@1615869752581" />
+  <defect num="7" type="Data" inj="Code" rem="Test" ft="1.2" fd="" desc="effecto&#10;precision en resultados esperados&#10;causa&#10;usar double y no long double" date="@1615937460109" />
+  <defect num="8" type="Function" inj="Code" rem="Test" ft="1.4" fd="" desc="effecto&#10;el programa despliega datos cuando hay error&#10;causa&#10;no se aplico el return" date="@1615950241783" />
+  <defect num="9" type="Syntax" inj="Code" rem="Test" ft="1.3" fd="" desc="effecto&#10;el output seria erronoe con los defectos&#10;causa&#10;escribi mal el mensaje de error" date="@1615950604878" />
+</defectLog>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Planning" rem="Design Review" ft="3.0" fd="" desc="EFECTO: Hay un error en la clase Calc&#10;CAUSA: error en la logica condicional" date="@1617681000517" />
+  <defect num="2" type="Syntax" inj="Design" rem="Design Review" ft="1.6" fd="" desc="EFECTO: error en la llamada de un methodo &#10;CAUSA: no se escribio correctamente el nombre de un mismo methodo en las distintas especificaciones" date="@1617681184509" />
+  <defect num="3" type="Syntax" inj="Code" rem="Code Review" ft="1.3" fd="" desc="EFFECTO: Error en llamada a methodo &#10;CAUSA: Syntaxis del methodo" date="@1617721095499" />
+  <defect num="4" type="Function" inj="Code" rem="Code Review" ft="1.0" fd="" desc="EFECTO: No se ejecuta el methodo aproximacion&#10;CAUSA: no se llama al methodo aproximacion desde el constructor" date="@1617721176953" />
+  <defect num="5" type="Checking" inj="Code" rem="Code Review" ft="1.1" fd="" desc="EFECTO: Se aceptan p mayores a 0.5&#10;CAUSA: No se agrego la condicion en la validacion del methodo read de IO" date="@1617721240386" />
+  <defect num="6" type="Function" inj="Code" rem="Code Review" ft="1.2" fd="" desc="EFECTO: No se asigna un nuevo valor a variable local direction en methodo aproximacion en Calc&#10;CAUSA: Se uso un operador de comparacion" date="@1617721309709" />
+  <defect num="7" type="Data" inj="Code" rem="Code Review" ft="1.1" fd="" desc="EFECTO: inconsistencia en tipo de datos&#10;CAUSA: no se le puso la L al final del decimal en el setX dentro del constructor de Calc" date="@1617721384416" />
+  <defect num="8" type="Function" inj="Code" rem="Test" ft="1.1" fd="" desc="EFECTO: aproximacion sobrepasa el error esperado&#10;CAUSA: muy pocos numeros de segmentos" date="@1617721693018" />
+  <defect num="9" type="Function" inj="Code" rem="Test" ft="0.4" fd="" desc="EFECTO: aproximacion sobrepasa el error esperado&#10;CAUSA: valor muy grande para constatne E" date="@1617721762525" />
+</defectLog>

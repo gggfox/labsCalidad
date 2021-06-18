@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="System" inj="Before Development" rem="Design" ft="12.7" fd="" desc="Efecto:&#10;Cuanta los archivos vacios con 1 linea de codigo&#10;Causa:&#10;cuneta la linea antes de verificar si es eof()" date="@1615152909590" />
+  <defect num="2" type="Function" inj="Design" rem="Design" ft="2.7" fd="1" desc="Efecto:&#10;cuenta los archivos vacios con una linea en blanco&#10;Causa:&#10;Cuenta la linea antes del eof()" date="@1615153684108" />
+  <defect num="3" type="Interface" inj="Before Development" rem="Code" ft="15.5" fd="" desc="Efecto:&#10;Considera una linea como comentario cuando tiene una token //.m al final&#10;Causa:&#10;se usa find(//) para ver si es linea de comentario" date="@1615157831156" />
+  <defect num="4" type="Syntax" inj="Code" rem="Code" ft="0.4" fd="" desc="Efecto:&#10;no compila el programa&#10;Causa&#10;puse un ; dentro de los parentesis de un while" date="@1615159799485" />
+  <defect num="5" type="Function" inj="Code" rem="Code" ft="3.6" fd="" desc="Efecto:&#10;El metodo readLine de la clase LOC no lee las //.b y //.d&#10;Causa:&#10;faltaba hacer otro incremento en los 2 ciclos&#10;" date="@1615332671452" />
+  <defect num="6" type="Function" inj="Code" rem="Test" ft="1.0" fd="" desc="Efecto:&#10;no cuenta correctamente las lineas totales (T)&#10;Causa:&#10;no se sumaban los archivos con el mismo nombre" date="@1615345721011" />
+  <defect num="7" type="Function" inj="Code" rem="Test" ft="1.0" fd="" desc='Efecto:&#10;imprimia las extensiones ej: ".txt", ".src"&#10;Causa:&#10;se me olvido llamar a una funcion para removerlos' date="@1615348530174" />
+  <defect num="8" type="Interface" inj="Code" rem="Test" ft="1.4" fd="" desc="Effecto:&#10;No hay identacion en el coutput ni en el archivo&#10;Causa:&#10;falto agregar identacion en el codigo" date="@1615602454898" />
+</defectLog>

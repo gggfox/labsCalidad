@@ -1,0 +1,12 @@
+crear clase para manejar lineas de codigo (LOC)
+que tenga getter y setter para BMDIT y un getter para A
+agregar un vector para pedir archivos
+agregar un arreglo de tipo LOC
+que LOC tenga el nombre del archivo como atributo pero sin la extension
+que la clase LOC lea la linea si tiene un //. pero que tenga cuidado con los str y que se sume
+arreglar lo de eof()
+alterar clase de white line para que slate { }
+que la clase LOC tenga methodos bool para ver si es base, nueva o reusada
+que la clase LOC tenfa un metodo que diga si es base, nueva o reusada
+imprimr en main con ciclos que piden el tipo de archivo (basem nueva reusada) antes de impirmir
+crear 3 methodos en main para base, nueva y reusada
